@@ -1,2 +1,1 @@
-# My-first-project-on-GitHub
-This is my first project on GitHub
+# A simple design for an hair-stylist index page.
